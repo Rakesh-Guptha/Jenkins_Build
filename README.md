@@ -1,2 +1,3 @@
-# Jenkins_Build
-This repo is created to verify the Jenkins build
+# maven-project
+
+Simple Maven Project for Devops
